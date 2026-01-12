@@ -6,7 +6,7 @@ detection, analysis, resolution, and lessons learned.
 
 ------------------------------------------------------------------------------
 
-## Incident 1: High CPU Utilization on Linux VM
+## Incident 1: High CPU Utilization on Linux Virtual Machine
 
 **Date/Time:**  
 Saturday January 10, 2026
