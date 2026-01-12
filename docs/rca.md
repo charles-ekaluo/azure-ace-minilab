@@ -4,7 +4,7 @@ This document contains incident reports generated during the Azure ACE Minimal L
 All incidents were handled using standard incident response steps:
 detection, analysis, resolution, and lessons learned.
 
----
+------------------------------------------------------------------------------
 
 ## Incident 1: High CPU Utilization on Linux VM
 
